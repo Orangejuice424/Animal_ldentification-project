@@ -1,0 +1,12 @@
+
+.copy_right_footer{
+ padding-left: 10%;
+ padding-top: 21%;
+ font-size: 20px;
+}
+
+#result_confidence{
+    font-family:cursive ;
+    font-size:22px;
+    font-style: italic;
+}
